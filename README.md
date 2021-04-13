@@ -1,15 +1,16 @@
-### 👋 Hi there 
+
+## <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> Hi there! 
 
 
 My name is Yury and I'm a Android and Front-end Web developer. I'm from Russia, living in Samara and currently working at my own company AOLD.
 
 
-### 💼 My apps on Goolge Play:
+## 💼 My apps on Goolge Play:
 
 https://play.google.com/store/apps/developer?id=АОЛД&hl=ru
 
 
-### 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/Mobile-Android-informational?style=flat-square&logo=Android&logoColor=white&color=#00FF00&bgcolor=#00FF00)

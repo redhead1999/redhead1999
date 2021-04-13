@@ -35,8 +35,7 @@ https://play.google.com/store/apps/developer?id=АОЛД&hl=ru
 <br>	
 <a target="_blank" href="https://vk.com/redheadprogrammer"><img src="https://img.shields.io/badge/-VK-0077B5?style=for-the-badge&logo=VK&logoColor=white"></img></a>
 <a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@thomas_george_thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://www.instagram.com/tea_and_it/"><img src="https://img.shields.io/badge/-Instagram-8a3ab9?style=for-the-badge&logo=Instagram&logoColor=#8a3ab9"></img></a>
 <br>
 </p>
 

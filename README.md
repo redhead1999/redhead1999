@@ -29,5 +29,11 @@ https://play.google.com/store/apps/developer?id=АОЛД&hl=ru
 </table>
 </p>
 
+<p>
+  <a href="https://www.youtube.com/extremecode"><img src="https://img.shields.io/badge/-ExtremeCode-5194f0?style=flat-square&logo=Youtube" /></a>
+  <a href="https://mailhide.io/en/e/gzaiNqU4"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white&color=5194f0" /></a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=redhead1999.visitor-badge&color=5194f0" />
+</p>
+
 
 

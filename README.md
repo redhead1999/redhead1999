@@ -2,7 +2,7 @@
 ## <img src="https://raw.githubusercontent.com/redhead1999/redhead1999/main/wave.gif" width="25px"> Hi there! 
 
 
-My name is Yury and I'm a Android and Front-end Web developer. I'm from Russia, living in Samara and currently working at my own company [AOLD](http://www.aold.ru/).
+My name is Yury and I'm a Android and Front-end Web developer. I'm from Russia, living in Samara and currently working at my own company AOLD.
 
 
 ### 💼 My apps on Goolge Play:
@@ -29,15 +29,16 @@ https://play.google.com/store/apps/developer?id=АОЛД&hl=ru
 </p>
 
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <i>I'd ask here for an infinite loop joke...
+but then I'd never hear the end of it.</i>
    <br>
-   <i>You miss 100% of the shots you don't take.</i>
+   <i>Follow me there</i>
    <br>
 <br>	
 <a target="_blank" href="https://vk.com/redheadprogrammer"><img src="https://img.shields.io/badge/-VK-0077B5?style=for-the-badge&logo=VK&logoColor=white"></img></a>
-<a target="_blank" href="https://www.instagram.com/tea_and_it/"><img src="https://img.shields.io/badge/-Instagram-8a3ab9?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
-<a target="_blank" href="mailto:t70052@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-
+<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@thomas_george_thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>
 

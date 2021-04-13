@@ -1,16 +1,15 @@
-
-## <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> Hi there! 
+### https://raw.githubusercontent.com/redhead1999/redhead1999/main/wave.gif Hi there 
 
 
 My name is Yury and I'm a Android and Front-end Web developer. I'm from Russia, living in Samara and currently working at my own company AOLD.
 
 
-## 💼 My apps on Goolge Play:
+### 💼 My apps on Goolge Play:
 
 https://play.google.com/store/apps/developer?id=АОЛД&hl=ru
 
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/Mobile-Android-informational?style=flat-square&logo=Android&logoColor=white&color=#00FF00&bgcolor=#00FF00)
@@ -34,7 +33,7 @@ https://play.google.com/store/apps/developer?id=АОЛД&hl=ru
    <i>You miss 100% of the shots you don't take.</i>
    <br>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-VK-0077B5?style=for-the-badge&logo=VK&logoColor=white"></img></a>
 <a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://medium.com/@thomas_george_thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>

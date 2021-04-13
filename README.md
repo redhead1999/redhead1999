@@ -28,21 +28,22 @@ https://play.google.com/store/apps/developer?id=АОЛД&hl=ru
 </table>
 </p>
 
-<p align="center">
-   <i>I'd ask here for an infinite loop joke...
+	
+  
+  <p align="center">
+ <i>I'd ask here for an infinite loop joke...
 but then I'd never hear the end of it.</i>
    <br>
-   <i>Follow me there</i>
    <br>
 <br>	
-  <p align="center">
+  
+  
   
 <a target="_blank" href="https://vk.com/redheadprogrammer"><img src="https://img.shields.io/badge/-VK-0077B5?style=for-the-badge&logo=VK&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/tea_and_it/"><img src="https://img.shields.io/badge/-Instagram-8a3ab9?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
 <a target="_blank" href="t70052@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</p>
+
 
 <br>
 </p>
-
 

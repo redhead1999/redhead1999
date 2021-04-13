@@ -14,9 +14,9 @@ https://play.google.com/store/apps/developer?id=АОЛД&hl=ru
 ### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/Android-informational?style=flat-square&logo=Android&logoColor=white&color=#00FF00&bgcolor=#00FF00)
+![](https://img.shields.io/badge/Mobile-Android-informational?style=flat-square&logo=Android&logoColor=white&color=#00FF00&bgcolor=#00FF00)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=#FFFF00)
 
 ### 📈 GitHub Stats
 

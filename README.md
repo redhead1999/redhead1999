@@ -29,7 +29,8 @@ https://play.google.com/store/apps/developer?id=АОЛД&hl=ru
 </p>
 
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+  <i>I'd ask here for an infinite loop joke...
+but then I'd never hear the end of it.</i>
    <br>
    <br>
 <br>	

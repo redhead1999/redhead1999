@@ -27,11 +27,17 @@ https://play.google.com/store/apps/developer?id=АОЛД&hl=ru
 </table>
 </p>
 
-<p>
-  <a href="https://www.youtube.com/extremecode"><img src="https://img.shields.io/badge/-ExtremeCode-5194f0?style=flat-square&logo=Youtube" /></a>
-  <a href="https://mailhide.io/en/e/gzaiNqU4"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white&color=5194f0" /></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=redhead1999.visitor-badge&color=5194f0" />
+<p align="center">
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
+   <br>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@thomas_george_thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<br>
 </p>
-
 
 

@@ -2,7 +2,7 @@
 ## <img src="https://raw.githubusercontent.com/redhead1999/redhead1999/main/wave.gif" width="25px"> Hi there! 
 
 
-My name is Yury and I'm a Android and Front-end Web developer. I'm from Russia, living in Samara and currently working at my own company AOLD.
+My name is Yury and I'm a Android and Front-end Web developer. I'm from Russia, living in Samara and currently working at my own company [AOLD](http://www.aold.ru/).
 
 
 ### 💼 My apps on Goolge Play:

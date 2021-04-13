@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+My name is Yury and I'm a Android and Front-end Web developer. I'm from Russia, living in Samara and currently working at my own company AOLD.
+
+
 <!--
 **redhead1999/redhead1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

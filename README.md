@@ -1,3 +1,5 @@
+background-image: url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg opacity='0.2'%3E%3Ccircle cx='8' cy='8' r='4' fill='%23525053'/%3E%3C/g%3E%3C/svg%3E%0A");
+
 
 ## <img src="https://raw.githubusercontent.com/redhead1999/redhead1999/main/wave.gif" width="25px"> Hi there! 
 
